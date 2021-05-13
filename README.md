@@ -4,7 +4,6 @@ Scrape the full text search result from EDGAR advance search website to local fi
 #### Scrape the full text search result from EDGAR to local file
 #### Webpage: https://www.sec.gov/edgar/search/
 #### Last updated on: 03/02/2021
-#### Created by: Lydia Lu Tong
 
 My code is best for exploring and extracting small sample (you have specific targets and refined keyword).
 
