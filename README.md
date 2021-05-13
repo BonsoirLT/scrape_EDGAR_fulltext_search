@@ -13,7 +13,8 @@ For bulk execution, it is better to download filing index and search each filing
 There is another sec search engine "https://www.sec.gov/cgi-bin/srch-edgar".
 Pro for that one is that it displays all search results. Con is that it can't select specific filing type.
 
-Feel free to modify my code to fulfill your specific goal. You can leave me your comments/questions on my website: tong-lu.com
+Feel free to modify my code to fulfill your specific goal. You can leave me your comments/questions on my website: https://www.tong-lu.com/
+Enjoy ;)
 
 ## Content:
 ## 1 -- Scraping Code -- scrapeEDGAR.ipynb
